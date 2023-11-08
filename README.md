@@ -199,3 +199,17 @@ Made with [contrib.rocks](https://contrib.rocks).
 ## 📬 Contact
 
 If you have any questions, feedback, or would like to get in touch, please feel free to reach out to us via email at [chatdev.openbmb@outlook.com](mailto:chatdev.openbmb@outlook.com)
+
+
+## Docker Run
+docker build --no-cache -t chatdev:latest .
+
+docker run -it -p 8000:8000 -e OPENAI_API_KEY=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 -e DISPLAY=192.168.1.12:0 chatdev:latest
+
+python run.py --task "Build a Vietnamese voice assistant" --name "AI-Javis"
+
+python3 online_log/app.py
+
+-------------
+
+python run.py --task "Develop a simple pingpong game." --name "[project_name]" --org "BACKUPAI" --model "GPT_3_5_TURBO"
