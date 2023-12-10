@@ -75,3 +75,11 @@ If the issue persists, you can reach out to our support team for further assista
 ## Conclusion
 
 The Vietnamese Voice Assistant is a powerful tool that allows users to interact with their devices using voice commands. With its voice recognition and text-to-speech capabilities, it provides a convenient and efficient way to perform tasks and get information. Enjoy using the Vietnamese Voice Assistant!
+
+
+python run.py --task "Make a website similar to https://tpb.vn/ca-nhan. It has complete front-end and back-end systems and must be operational." --name "TPBANK-1012"
+
+Làm một webste tương tự như https://tpb.vn/ca-nhan . có đầy đủ cả hệ thống front-end và Back-End và phải hoạt động được.
+
+-->
+Make a website similar to https://tpb.vn/ca-nhan. It has complete front-end and back-end systems and must be operational.

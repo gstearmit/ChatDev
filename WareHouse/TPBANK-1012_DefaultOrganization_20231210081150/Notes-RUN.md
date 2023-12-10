@@ -1,0 +1,7 @@
+docker cp container_id:/path/in/container /path/on/host
+
+docker cp 4305694ea3c9d6cbdd01c281aa70207cc0ba5e209048be0f38b244cae6ef5377:/app/WareHouse/TPBANK-1012_DefaultOrganization_20231210081150 D:\WorkSpace\AI-Javis\WareHouse
+
+TP-BANK_DefaultOrganization_20231210075207
+
+docker cp 4305694ea3c9d6cbdd01c281aa70207cc0ba5e209048be0f38b244cae6ef5377:/app/WareHouse/TP-BANK_DefaultOrganization_20231210075207 D:\WorkSpace\AI-Javis\WareHouse
